@@ -32,6 +32,6 @@
 This game was originally developed as a school project but is now maintained as part of a personal portfolio.
 
 ## 👥 Contributors
-Developed by Aleksandra Soboleva. Special thanks to contributors and testers.
+Developed by Aleksandra Kenig. Special thanks to contributors and testers.
 
 ### 📩 Feel free to reach out with questions or suggestions!
