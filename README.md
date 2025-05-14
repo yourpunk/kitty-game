@@ -17,7 +17,6 @@
 ## 📷 Screenshots
 ~~(juicy visuals, baby)~~
 
-
 <p align="left">
   <img src="https://github.com/user-attachments/assets/98c13646-600c-4689-8bee-8fec52d40d71" width="300"/>
   <img src="https://github.com/user-attachments/assets/a7434353-599f-4e4e-a1f9-3fa46b62906f" width="300"/>
@@ -41,7 +40,7 @@ You’ve got **two ways** to step into the kitten’s kitchen. Pick your flavor:
 2. Download the latest `kitty-game.exe`.
 3. Double-click. That's it. No extra spice needed.
 
-**🐾 Option 2:** Run the .JAR (make sure you’ve got Java 17+ installed.)
+**🐾 Option 2:** Run the .JAR (make sure you’ve got Java 21+ installed.)
 1. Clone the repo:
 ```sh
 git clone https://github.com/yourpunk/kitty-game.git
@@ -49,7 +48,7 @@ cd kitty-game
 ```
 2. Run the game:
 ```sh
-java -jar PurrfectChef.jar
+java -jar Kitty.jar
 ```
 **Still stuck?** ➜ Open an issue or send me a message. Tech support with a punk soul included. ʕ⁠っ⁠•⁠ᴥ⁠•⁠ʔ⁠っ  ♡
 
